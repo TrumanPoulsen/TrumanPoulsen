@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #47FAF7;
+	background: #FCC165;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #00ABFA;
+	background: #E09A5A;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #2447E3;
+	background: #F79D6F;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -30,14 +30,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #DFF0F7;
+	background: #E0735A;
 	margin: 10px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #D01AF0;
+	background: #FC6B65;
 	margin: 0px;
 	float: left;
 	width: 100%;
